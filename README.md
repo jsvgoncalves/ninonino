@@ -1,5 +1,5 @@
 # ninonino  
-
+![ninonino](https://raw.githubusercontent.com/PI-Victor/ninonino/master/Siren.gif)
 
 Alarming engine written in Go for large systems and web applications.
 Cache and compute raw metrics collected from an application. Most probably will end up collecting data from [monito](https://github.com/pi-victor/monito)'s API.
